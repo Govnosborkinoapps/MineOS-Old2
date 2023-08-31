@@ -5,7 +5,7 @@
 
 
 
-#Установка
+# Установка
 Команда Установки
 
     wget https://raw.githubusercontent.com/Govnosborkinoapps/MineOS-Old2/master/Installer.lua
